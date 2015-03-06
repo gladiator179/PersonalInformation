@@ -3,6 +3,8 @@
 使用方法
 1. 进入Tables目录, 先后导入Create.sql文件和Create_index.sql文件
 2. 进入View目录, 执行shell命令
-> python LoginFrame.py
+#+BEGIN_SRC Shell
+ python LoginFrame.py
+#+END_SRC
 即可进入该个人信息管理系统
 3. 本程序需要安装数据库MySQL, python第三方库MySQLdb和wxPython图形界面库才能运行
